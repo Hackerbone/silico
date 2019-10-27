@@ -21,7 +21,8 @@ html,body{
 }
 .navbar-init{
   width: 100%;
-  background:rgba(255,255,255, 0.8);
+  
+  background:rgba(255,255,255);
   color: black;
   position: fixed;
   z-index: 1;
@@ -317,4 +318,8 @@ button:hover{
   padding: 3em;
   border: solid #23D5AB 2px;
   font-size: 1.2em ;
+}
+.cnt p{
+  margin:10px;
+  padding:5px;
 }
