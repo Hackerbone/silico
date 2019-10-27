@@ -319,3 +319,7 @@ button:hover{
   border: solid #23D5AB 2px;
   font-size: 1.2em ;
 }
+.cnt p{
+  margin:10px;
+  padding:5px;
+}
