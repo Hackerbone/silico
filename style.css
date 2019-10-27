@@ -21,7 +21,8 @@ html,body{
 }
 .navbar-init{
   width: 100%;
-  background:rgba(255,255,255, 0.8);
+  
+  background:rgba(255,255,255);
   color: black;
   position: fixed;
   z-index: 1;
